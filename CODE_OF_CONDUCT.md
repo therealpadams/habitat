@@ -72,7 +72,7 @@ The following are the various roles of our Community Organizers and the people a
 * <b>Community Advocates</b> may be assigned for each area where the community convenes online (IRC, email list, GitHub, etc.). Community Advocates are volunteers who have the best interests of our community in mind. They act in good faith to help enforce our community guidelines and respond to incidents when they occur. Our Community Advocates are:
   - [Tasha Drew](tasha@habitat.sh), [@tashadrew](https://twitter.com/tashadrew)
   - [Nell Shamrell-Harrington](nshamrell@habitat.sh), [@nellshamrell](https://twitter.com/nellshamrell)
-  - [Ben Dang](bendang@gmail.com), [@bdangit](https://twitter.com/bdangit)
+  - [Ben Dang](me@bdang.it), [@bdangit](https://twitter.com/bdangit)
 * A <b>Community Member</b> is anyone who participates with the community whether in-person or via online channels. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines.
   
 ### Consequences of Unacceptable Behavior
