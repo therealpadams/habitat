@@ -18,7 +18,7 @@ over the world to make Habitat better. Community members may fulfill many roles
 including mentoring, teaching, and connecting with other members of the community.
 
 Be careful in the words that you choose. Be kind to others. Practice empathy. Don't
-insult or put down others. Remember that sexist, racist, and other exclusionary jokes
+insult or put down others. Remember that sexist, racist, ableist and other exclusionary jokes
 can be offensive to those around you. If you think your conversation is making another
 community member uncomfortable _or_ if they tell you so, stop immediately, make amends,
 and move forward.
@@ -26,12 +26,12 @@ and move forward.
 As you are working with other members of the community, please keep in mind the following guidelines, which apply equally to founders, mentors, those who submit new features and pull requests, and to anyone who is seeking help and guidance.
 
 The following list isn’t exhaustive; but these few examples can help all of us communicate well so that the community can work better together:
-* Using welcoming and inclusive language
-* Exercising patience and friendliness
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* Use welcoming and inclusive language
+* Exercise patience and friendliness
+* Be respectful of differing viewpoints and experiences
+* Gracefully accept constructive criticism
+* Focus on what is best for the community
+* Show empathy towards other community members
 
 The previous list applies to all forms of communication: Slack (or any web chat), discourse, the issue tracker, and any other forum that is used by the community.
 
@@ -39,21 +39,21 @@ Please keep in mind that:
 * Your work will be used by other people, and you, in turn, will depend on the work of others.
 * Decisions that you make will often affect others in the community.
 * Disagreements happen, but should not be an excuse for poor behavior and bad manners. When disagreements do happen, let’s work together to solve them effectively and in a way that ensures that everyone understands what the disagreement was.
-* People may not understand jokes, sarcasm, and oblique references in the same way that you do. So remember that and be kind to the other members of the community.
-* Sexist, racist, and other prejudicial or exclusionary comments are not welcome in the community.
+* Our community spans languages, cultures, perspectives (and continents!), and as such people may not understand jokes, sarcasm, and oblique references in the same way that you do. So remember that and be kind to the other members of the community.
+* Sexist, racist, ableist and other prejudicial or exclusionary comments are not welcome in the community.
 
 ### Unacceptable Behavior
 Harassment comes in many forms, including but not limited to: offensive verbal or written comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, and sexual images.
 
-As a community that meets in physical public spaces, harassment also includes: stalking, persistent following, intrusive or otherwise unwanted photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+As a community that meets in physical public spaces, harassment also includes: stalking, persistent following, intrusive or otherwise unwanted photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. 
 
 Examples of other unacceptable behaviors by participants include but are not limited to:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
 advances.
-* Violent threats or language directed against another person.
+* Threats or violent language directed against another person.
 * Posting sexually explicit or violent material.
-* Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+* Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
 * Trolling, insulting/derogatory comments, and personal or political attacks particulary those related to gender, sexual orientation, race, religion or disability.
 * Public or private harassment.
 * Publishing others' private information, such as a physical or electronic
@@ -63,6 +63,16 @@ advances.
 
 If you have any lack of clarity about behaviors we include in the definition of "harassment", please read the [Citizen Code of Conduct](http://citizencodeofconduct.org/). In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.
 
+### Roles
+The following are the various roles of our Community Organizers and the people assigned to each role:
+* The <b>Decider</b> has final say on community guidelines and final authority on correct actions and appeals. The top-level decider is [Adam Jacob](adam@habitat.sh), [@adamhjk](https://twitter.com/adamhjk)
+* The <b>Community Manager</b> guides and meets regularly with community advocates, helps enforce corrective actions, hears appeals, is responsible for maintaining a list of incidents, and ensures pertinent information is shared with necessary parties. The Community Manager is [Ian Henry](ian@habitat.sh), [@eeyun___](https://twitter.com/eeyun___).
+* <b>Community Advocates</b> may be assigned for each area where the community convenes online (IRC, email list, GitHub, etc.). Community Advocates are volunteers who have the best interests of our community in mind. They act in good faith to help enforce our community guidelines and respond to incidents when they occur. Our Community Advocates are:
+  - [Tasha Drew](tasha@habitat.sh), [@tashadrew](https://twitter.com/tashadrew)
+  - [Nell Shamrell-Harrington](nshamrell@habitat.sh), [@nellshamrell](https://twitter.com/nellshamrell)
+  - [Ben Dang](bendang@gmail.com), [@bdangit](https://twitter.com/bdangit)
+* A <b>Community Member</b> is anyone who participates with the community whether in-person or via online channels. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines.
+  
 ### Consequences of Unacceptable Behavior
 Unacceptable behavior from any community member, including sponsors and those with
 decision-making authority, will *not* be tolerated.
@@ -72,29 +82,39 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 If a community member engages in unacceptable behavior, the community organizers
 may take action they deem appropriate, up to and including temporary ban or permanent
 expulsion from the community _without warning_ (and without refund in the case of
-a paid event).
+a paid event). If you have been involved in unacceptable behavior with current Habitat
+community members outside the boundaries of the Habitat Community, the Community Organizers 
+retain the right to treat those external incidents in the same manner as internal incidents.
 
 Any physical violence _or_ intimidation, threatened or acted on, is a serious
 offense and will result in immediate exclusion from the community and appropriate
 follow up with law enforcement (no, we're not kidding).
 
+## Procedure for Handling Disagreements and Incidents
+Disagreements are inherent to a group of impassioned people. When they occur, we seek to resolve disagreements and differing views constructively and with the help of the community and community processes. When disagreements escalate, we ask our community advocates to step in to moderate, mediate, and help resolve tense situations.
+
+The Habitat Community advocates are well informed on how to deal with incidents. Report the incident (preferably in writing) to one of the community advocates listed above. See the "Roles" section for details on each role.
+
 ### Handling Incidents
-When an advocate or maintainer notices someone behaving in a way that is outside of our guidelines (a violator) the advocate should make every reasonable attempt to help curtail that behavior.  The advocate may:
+
+When a Community Organizer or Project Maintainer notices someone behaving in a way that is outside of our guidelines (a violator) the Advocate should make every reasonable attempt to help curtail that behavior.  The Advocate may:
 
 * Remind the violator about our Community Code of Conduct and provide a link to this document.
 * Ask the violator to stop the unacceptable behavior.
 * Raise the issue with a maintainer, the community manager, or any member of the core project team.
 * Allow time for the violator to correct the behavior.
 
-The advocate should take the following steps if the behavior is not brought inline with our guidelines or the incident is not resolved.
+The Advocate should take the following steps if the behavior is not brought inline with our guidelines or the incident is not resolved.
 
-* Consult with another maintainer to make a judgement call about what reasonable corrective actions are warranted.
+* Consult with another Community Organizer to make a judgement call about what reasonable corrective actions are warranted.
 * Apply the corrective action.
 * Document the incident.
 
 #### Documenting Incidents
 
-All incident reports will be kept in a private repository that is shared with the advocates, maintainers and Community Manager.
+All incident reports will be kept in a private repository that is shared with the aforementioned Community Advocates, Community Manager and Decider. No other individuals or project contributors will be given access to these incident reports. On the displacement of
+any Community Organizer in the *Roles* list above, that individual will immediately lose access
+to this repository.
 
 The important information to report consists of:
 
@@ -111,15 +131,15 @@ If you feel your safety is in jeopardy please do not hesitate to contact local l
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable
+Community Organizers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+Community Organizers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, messages, tweets
+and other contributions that are not aligned to this Code of Conduct, or to 
+ban temporarily or permanently any contributor for other behaviors that 
+they deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 Our community will convene in both physical and virtual spaces and this Code
@@ -128,7 +148,7 @@ is representing the project or its community. Examples of
 representing a project or community include using an official project e-mail
 address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+further defined and clarified by project maintainers and community organizers.
 
 ## Enforcement
 
@@ -139,7 +159,7 @@ is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
+Community Organizers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
