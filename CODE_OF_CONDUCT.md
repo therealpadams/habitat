@@ -39,7 +39,6 @@ Please keep in mind that:
 * Your work will be used by other people, and you, in turn, will depend on the work of others.
 * Decisions that you make will often affect others in the community.
 * Disagreements happen, but should not be an excuse for poor behavior and bad manners. When disagreements do happen, let’s work together to solve them effectively and in a way that ensures that everyone understands what the disagreement was.
-<<<<<<< HEAD
 * Our community spans languages, cultures, perspectives (and continents!), and as such people may not understand jokes, sarcasm, and oblique references in the same way that you do. So remember that and be kind to the other members of the community.
 * Sexist, racist, ableist and other prejudicial or exclusionary comments are not welcome in the community.
 
