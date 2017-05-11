@@ -39,6 +39,7 @@ Please keep in mind that:
 * Your work will be used by other people, and you, in turn, will depend on the work of others.
 * Decisions that you make will often affect others in the community.
 * Disagreements happen, but should not be an excuse for poor behavior and bad manners. When disagreements do happen, let’s work together to solve them effectively and in a way that ensures that everyone understands what the disagreement was.
+<<<<<<< HEAD
 * Our community spans languages, cultures, perspectives (and continents!), and as such people may not understand jokes, sarcasm, and oblique references in the same way that you do. So remember that and be kind to the other members of the community.
 * Sexist, racist, ableist and other prejudicial or exclusionary comments are not welcome in the community.
 
@@ -54,6 +55,7 @@ advances.
 * Threats or violent language directed against another person.
 * Posting sexually explicit or violent material.
 * Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
+
 * Trolling, insulting/derogatory comments, and personal or political attacks particulary those related to gender, sexual orientation, race, religion or disability.
 * Public or private harassment.
 * Publishing others' private information, such as a physical or electronic
@@ -111,8 +113,7 @@ The Advocate should take the following steps if the behavior is not brought inli
 * Document the incident.
 
 #### Documenting Incidents
-
-All incident reports will be kept in a private repository that is shared with the aforementioned Community Advocates, Community Manager and Decider. No other individuals or project contributors will be given access to these incident reports. On the displacement of
+All incident reports will be kept in a private repository that is shared with the aforementioned Community Advocates, Community Manager and Decider under the *Roles* section. No other individuals or project contributors will be given access to these incident reports. On the displacement of
 any Community Organizer in the *Roles* list above, that individual will immediately lose access
 to this repository.
 
